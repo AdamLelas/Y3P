@@ -1,0 +1,10 @@
+
+.nameholder{
+    text-align: center;
+    background-color: lightgrey;
+    border-style: solid;
+    border-color: darkgrey;
+    border: 5px;
+    border-radius: 2%;
+    
+}
